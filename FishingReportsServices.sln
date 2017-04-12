@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishingReportsServices", "FishingReportsServices\FishingReportsServices.csproj", "{AA599F4C-DA60-44F2-900E-3A0E16260134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishingReports.DataAccess", "FishingReports.DataAccess\FishingReports.DataAccess.csproj", "{AA097B9C-01A7-421F-8731-6205FAC235DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishingReports.Model", "FishingReports.Model\FishingReports.Model.csproj", "{6B88317A-262B-46DC-ABC1-9EE77D9938F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA599F4C-DA60-44F2-900E-3A0E16260134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA599F4C-DA60-44F2-900E-3A0E16260134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA599F4C-DA60-44F2-900E-3A0E16260134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA599F4C-DA60-44F2-900E-3A0E16260134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA097B9C-01A7-421F-8731-6205FAC235DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA097B9C-01A7-421F-8731-6205FAC235DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA097B9C-01A7-421F-8731-6205FAC235DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA097B9C-01A7-421F-8731-6205FAC235DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B88317A-262B-46DC-ABC1-9EE77D9938F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B88317A-262B-46DC-ABC1-9EE77D9938F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B88317A-262B-46DC-ABC1-9EE77D9938F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B88317A-262B-46DC-ABC1-9EE77D9938F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

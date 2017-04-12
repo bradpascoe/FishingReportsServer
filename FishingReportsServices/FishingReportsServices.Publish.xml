@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Bradskis\Temp\FishingReportServices" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="FishingReportsServices" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/FishingReports.Model.dll" publishTime="03/25/2012 19:48:40" />
+    <file relUrl="bin/FishingReportsServices.dll" publishTime="09/07/2013 15:34:16" />
+    <file relUrl="ReportDataService.svc" publishTime="12/12/2010 18:13:44" />
+    <file relUrl="Web.config" publishTime="01/02/2011 16:35:18" />
+    <file relUrl="bin/FishingReports.DataAccess.pdb" publishTime="03/25/2012 19:49:50" />
+    <file relUrl="bin/FishingReportsServices.pdb" publishTime="09/07/2013 15:34:16" />
+    <file relUrl="bin/FishingReports.DataAccess.dll" publishTime="03/25/2012 19:49:50" />
+    <file relUrl="LoginService.svc" publishTime="12/11/2010 16:44:42" />
+    <file relUrl="bin/FishingReports.Model.pdb" publishTime="03/25/2012 19:48:40" />
+    <file relUrl="LocationDataService.svc" publishTime="12/12/2010 19:19:31" />
+  </publishProfile>
+</publishData>
